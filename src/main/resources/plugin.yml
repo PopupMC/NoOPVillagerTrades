@@ -1,0 +1,6 @@
+name: NoOPVillagerTrades
+version: 1.0
+main: com.popupmc.noopvillagertrades.NoOPVillagerTrades
+description: No OP Villager Trades
+author: junebug12851
+api-version: 1.16
